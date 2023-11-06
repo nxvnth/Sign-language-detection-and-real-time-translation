@@ -26,6 +26,7 @@ python '.yolov5/detect.py' --weights '.yolov5/runs/train/yolov5s_results/weights
 ### Run:
 ```text
 
+cd yolov5
 python '.yolov5/run.py'
 
 ```
